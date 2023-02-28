@@ -1,0 +1,56 @@
+/* Author-Bismi John */
+.mcontainer p {
+    color: rgb(109, 106, 106) !important;
+}
+.check-now {
+    margin-top: 200px;
+}
+.sec-div {
+    background-color: rgba(220, 234, 248, 0.637);
+    min-height: 50vh;
+    justify-content: space-around;
+}
+.overlay {
+    margin-top: -50px;
+}
+
+.third-div {
+    padding: 0;
+}
+.fourth-div {
+    min-height: 80vh;
+    background-color: rgba(220, 234, 248, 0.637);
+}
+.fourth-img {
+    justify-content: space-evenly;
+}
+.dname {
+    /* z-index: 3; */
+    position: relative;
+    background-color: white;
+    border-radius: 15px 15px 15px 15px;
+}
+.dimg {
+    margin-bottom: -40px;
+}
+.fifth-div {
+    padding: 0;
+}
+.sixth-div {
+    padding: 0;
+}
+.small-ratings i {
+    color: #cecece;
+}
+
+.rating-color {
+    color: #9eaff8 !important;
+}
+
+.star {
+    padding-left: 200px;
+}
+.form {
+    text-align: left;
+    padding-right: 150px;
+}
